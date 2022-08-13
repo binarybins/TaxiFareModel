@@ -1,0 +1,15 @@
+artifact_uri: file:///home/binarybin/code/binarybins/TaxiFareModel/mlruns/1/58c8f813c0ee46d983eb21063c6bcbc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 58c8f813c0ee46d983eb21063c6bcbc4
+run_uuid: 58c8f813c0ee46d983eb21063c6bcbc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660372051278
+status: 1
+tags: []
+user_id: unknown
