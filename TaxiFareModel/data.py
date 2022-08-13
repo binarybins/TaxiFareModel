@@ -8,7 +8,6 @@ def get_data(nrows=10_000):
     df = pd.read_csv(AWS_BUCKET_PATH, nrows=nrows)
     return df
 
-
 def clean_data(df, test=False):
     df = df.dropna(how='any', axis='rows')
     df = df[(df.dropoff_latitude != 0) | (df.dropoff_longitude != 0)]
